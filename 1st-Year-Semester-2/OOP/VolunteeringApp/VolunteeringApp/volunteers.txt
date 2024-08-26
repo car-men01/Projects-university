@@ -1,0 +1,17 @@
+Daniel;dani11@gmail.com;reading,cycling,boxing;Volunteer Support
+Emma;emma.smith@yahoo.com;hiking,painting,photography;Community Outreach
+James;james.brown@gmail.com;cooking,gardening,woodworking;Community Outreach
+Sarah;sarah.jones@gmail.com;yoga,meditation,travel;Event Coordination
+Michael;michael.nguyen@gmail.com;relationships,technology,coding;Fundraising
+Olivia;olivia.wilson@yahoo.com;volunteering,environmental activism,hiking;Fundraising
+Ethan;ethan.thomas@yahoo.com;music,playing guitar,writing;Event Coordination
+Sophia;sophia.liu@gmail.com;swimming,skiing,baking;Fundraising
+Alice;alice.green@yahoo.com;running,photography,reading;Community Outreach
+John;john.doe@yahoo.com;fishing,traveling,cooking;Volunteer Support
+Maria;maria.rodriguez@gmail.com;dancing,painting,hiking;Community Outreach
+Robert;robert.johnson@gmail.com;coding,cycling,technology,volunteering;Fundraising
+Emily;emily.williams@yahoo.com;relationships,sponsorships,coding,baking;0
+;;;
+;;;
+beb;bebeb;beb,beb;0
+beb1;bebeb1111;beb,beb,technology,volunteering,promote;Community Outreach

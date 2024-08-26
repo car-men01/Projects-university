@@ -1,0 +1,10 @@
+﻿  Department.cpp
+  DepartmentsVolunteers.cpp
+  Service.cpp
+  Volunteer.cpp
+  VolunteeringApp.cpp
+  main.cpp
+D:\UBB\Semestrul_II\oop\pregatire_examen\volunteering_qt\VolunteeringApp\VolunteeringApp\main.cpp(18,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  moc_DepartmentsVolunteers.cpp
+  moc_VolunteeringApp.cpp
+  VolunteeringApp.vcxproj -> D:\UBB\Semestrul_II\oop\pregatire_examen\volunteering_qt\VolunteeringApp\x64\Debug\VolunteeringApp.exe

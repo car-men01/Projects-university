@@ -1,0 +1,8 @@
+Escherichia coli-Enterobacteriaceae-2-Gastroenteritis,Urinary tract infection
+Bacillus subtilis-Bacillaceae-4-Food poisoning
+Staphylococcus aureus-Staphylococcaceae-1-Skin infections,Pneumonia
+Streptococcus pneumoniae-Streptococcaceae-3-Pneumonia,Meningitis
+Lactobacillus acidophilus-Lactobacillaceae-5-No diseases (Probiotic)
+Bacillus cereus-Bacillaceae-3-Food poisoning,Eye infections
+Pseudomonas aeruginosa-Pseudomonadaceae-2-Respiratory infections,Urinary tract infections
+Bacillus subtilis-Bacillaceae-4-Food poisoning

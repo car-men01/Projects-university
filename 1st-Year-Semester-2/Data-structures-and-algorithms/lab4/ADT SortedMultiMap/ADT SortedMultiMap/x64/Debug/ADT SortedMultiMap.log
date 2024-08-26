@@ -1,0 +1,11 @@
+﻿  ExtendedTest.cpp
+D:\UBB\Semestrul_II\structuri_de_date_si_alg\lab4\ADT SortedMultiMap\ADT SortedMultiMap\ExtendedTest.cpp(194,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UBB\Semestrul_II\structuri_de_date_si_alg\lab4\ADT SortedMultiMap\ADT SortedMultiMap\ExtendedTest.cpp(227,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UBB\Semestrul_II\structuri_de_date_si_alg\lab4\ADT SortedMultiMap\ADT SortedMultiMap\ExtendedTest.cpp(212,20): warning C4101: 'ex': unreferenced local variable
+D:\UBB\Semestrul_II\structuri_de_date_si_alg\lab4\ADT SortedMultiMap\ADT SortedMultiMap\ExtendedTest.cpp(219,20): warning C4101: 'ex': unreferenced local variable
+  SMMIterator.cpp
+  ShortTest.cpp
+  SortedMultiMap.cpp
+  Generating Code...
+D:\UBB\Semestrul_II\structuri_de_date_si_alg\lab4\ADT SortedMultiMap\ADT SortedMultiMap\SMMIterator.cpp(169): warning C4715: 'SMMIterator::getCurrent': not all control paths return a value
+  ADT SortedMultiMap.vcxproj -> D:\UBB\Semestrul_II\structuri_de_date_si_alg\lab4\ADT SortedMultiMap\x64\Debug\ADT SortedMultiMap.exe

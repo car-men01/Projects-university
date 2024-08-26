@@ -1,0 +1,4 @@
+Maria,Birthday Celebration,One year older...,34.0522;128.2437,2024-01-01
+John,Tech Conference,Exploring the future of technology,34.0522;128.2437,2024-11-23
+Sophia,Charity Run,Running for a cause,-34.0522;152.2437,2024-05-12
+Ethan,Music Festival,Live performances and more,51.5074;-0.1478,2024-08-17

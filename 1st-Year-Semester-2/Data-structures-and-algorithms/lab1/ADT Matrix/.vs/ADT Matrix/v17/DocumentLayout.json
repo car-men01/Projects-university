@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|solutionrelative:Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|solutionrelative:Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|solutionrelative:ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|solutionrelative:ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|solutionrelative:App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ExtendedTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042036D-CB1D-4EC5-A306-1C760FAB1B53}|ADT Matrix.vcxproj|solutionrelative:ExtendedTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\Matrix.cpp",
+              "RelativeDocumentMoniker": "Matrix.cpp",
+              "ToolTip": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\Matrix.cpp",
+              "RelativeToolTip": "Matrix.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T19:53:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortTest.cpp",
+              "DocumentMoniker": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ShortTest.cpp",
+              "RelativeDocumentMoniker": "ShortTest.cpp",
+              "ToolTip": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ShortTest.cpp",
+              "RelativeToolTip": "ShortTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T19:53:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.cpp",
+              "DocumentMoniker": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\App.cpp",
+              "RelativeDocumentMoniker": "App.cpp",
+              "ToolTip": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\App.cpp",
+              "RelativeToolTip": "App.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T19:53:12.089Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\Matrix.h",
+              "RelativeDocumentMoniker": "Matrix.h",
+              "ToolTip": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\Matrix.h",
+              "RelativeToolTip": "Matrix.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-25T19:53:12.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtendedTest.cpp",
+              "DocumentMoniker": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ExtendedTest.cpp",
+              "RelativeDocumentMoniker": "ExtendedTest.cpp",
+              "ToolTip": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ExtendedTest.cpp",
+              "RelativeToolTip": "ExtendedTest.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAewJ4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T19:53:12.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtendedTest.h",
+              "DocumentMoniker": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ExtendedTest.h",
+              "RelativeDocumentMoniker": "ExtendedTest.h",
+              "ToolTip": "D:\\UBB\\github_projects\\1st-Year-Semester-2\\Data-structures-and-algorithms\\lab1\\ADT Matrix\\ExtendedTest.h",
+              "RelativeToolTip": "ExtendedTest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-25T19:53:12.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
