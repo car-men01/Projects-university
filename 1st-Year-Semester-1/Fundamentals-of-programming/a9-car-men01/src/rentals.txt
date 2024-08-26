@@ -1,0 +1,15 @@
+68, Book id 51, book title Poems of Emily Dickinson, by author Emily Dickinson, Client id 47, client name Ioana Petrache, 14-11-2022, 20-02-2023
+29, Book id 97, book title Invisible Man, by author Ralph Ellison, Client id 73, client name Ionut Petrescu, 22-07-2022, 09-09-2023
+18, Book id 22, book title Hamlet, by author William Shakespeare, Client id 73, client name Ionut Petrescu, 31-12-2022, 28-10-2023
+36, Book id 51, book title Poems of Emily Dickinson, by author Emily Dickinson, Client id 53, client name Razvan Miclea, 22-05-2022, 09-03-2023
+2, Book id 80, book title To Kill a Mockingbird, by author Harper Lee, Client id 18, client name Serban Stoica, 17-01-2023, 28-11-2023
+58, Book id 38, book title The Lord of the Rings, by author J. R. R. Tolkien, Client id 88, client name Isabela Mira, 10-03-2023, 17-08-2023
+83, Book id 99, book title The Great Gatsby, by author F. Scott Fitzgerald, Client id 43, client name Paul Moldovan, 15-12-2022, 16-11-2023
+4, Book id 99, book title The Great Gatsby, by author F. Scott Fitzgerald, Client id 87, client name Ana Floarea, 22-10-2023, 03-11-2023
+53, Book id 22, book title Hamlet, by author William Shakespeare, Client id 50, client name Alexandra Moisescu, 02-01-2023, 17-09-2023
+17, Book id 43, book title The Metamorphosis, by author Franz Kafka, Client id 47, client name Ioana Petrache, 11-10-2022, 15-05-2023
+62, Book id 24, book title The Adventures of Huckleberry Finn, by author Mark Twain, Client id 47, client name Ioana Petrache, 15-07-2022, 02-12-2023
+33, Book id 23, book title The Trial, by author Franz Kafka, Client id 81, client name David Marcel, 07-02-2022, 18-02-2023
+70, Book id 22, book title Hamlet, by author William Shakespeare, Client id 50, client name Alexandra Moisescu, 12-09-2022, 21-10-2023
+86, Book id 43, book title The Metamorphosis, by author Franz Kafka, Client id 44, client name Cristiana Dragomir, 27-03-2022, 20-05-2023
+63, Book id 23, book title The Trial, by author Franz Kafka, Client id 52, client name Andrei Popescu, 30-06-2023, 22-09-2023
