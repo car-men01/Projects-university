@@ -1,0 +1,25 @@
+# ninja log v5
+1	83	7327234065372129	CMakeFiles/a2_3_car_men01.dir/main.c.obj	8f0b72998d9da117
+0	74	7327233312193543	CMakeFiles/a2_3_car_men01.dir/UI.c.obj	bae6e0d47e50bd66
+83	181	7327234066092860	a2_3_car_men01.exe	c741d01942565fdc
+9	530	7327230971300241	CMakeFiles/a2_3_car_men01.dir/repository.c.obj	5f4bdfb285ea8dd9
+7	111	7327192298604748	CMakeFiles/a2_3_car_men01.dir/domain.c.obj	d5b7a08d102adffa
+1	528	7327230971279977	CMakeFiles/a2_3_car_men01.dir/controller.c.obj	20ee18cb005653d2
+112	169	7327192299219318	CMakeFiles/a2_3_car_men01.dir/dynamic_array.c.obj	c2bc0accddda5e7f
+1	186	7327488942756433	build.ninja	795e2e929356aa6a
+25	128	7327192298786866	CMakeFiles/a2_3_car_men01.dir/undo.c.obj	eb99db30932cc61f
+1	578	7327549893580791	CMakeFiles/a2_3_car_men01.dir/main.c.obj	8f0b72998d9da117
+11	582	7327549893580791	CMakeFiles/a2_3_car_men01.dir/tests.c.obj	d1a470232c31f7ee
+8	583	7327549893570795	CMakeFiles/a2_3_car_men01.dir/undo.c.obj	eb99db30932cc61f
+583	796	7327549895290740	a2_3_car_men01.exe	165fc9f2fa36030c
+0	557	7327990809669487	CMakeFiles/a2_3_car_men01.dir/main.c.obj	8f0b72998d9da117
+557	711	7327990810798312	a2_3_car_men01.exe	165fc9f2fa36030c
+0	72	7327994345693380	CMakeFiles/a2_3_car_men01.dir/controller.c.obj	20ee18cb005653d2
+72	198	7327994346538528	a2_3_car_men01.exe	165fc9f2fa36030c
+7	336	7328000716238116	CMakeFiles/a2_3_car_men01.dir/dynamic_array.c.obj	c2bc0accddda5e7f
+1	340	7328000716271852	CMakeFiles/a2_3_car_men01.dir/tests.c.obj	d1a470232c31f7ee
+340	454	7328000717090049	a2_3_car_men01.exe	165fc9f2fa36030c
+0	59	7328002493054908	CMakeFiles/a2_3_car_men01.dir/dynamic_array.c.obj	c2bc0accddda5e7f
+59	181	7328002493900014	a2_3_car_men01.exe	165fc9f2fa36030c
+1	508	7328019039321874	CMakeFiles/a2_3_car_men01.dir/tests.c.obj	d1a470232c31f7ee
+508	689	7328019040787796	a2_3_car_men01.exe	165fc9f2fa36030c

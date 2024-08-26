@@ -1,0 +1,10 @@
+# ninja log v5
+24	404	7330993032244555	CMakeFiles/a2_3_car_men01.dir/dynamic_array.c.obj	c2bc0accddda5e7f
+32	408	7330993032354666	CMakeFiles/a2_3_car_men01.dir/tests.c.obj	d1a470232c31f7ee
+28	408	7330993032354666	CMakeFiles/a2_3_car_men01.dir/undo.c.obj	eb99db30932cc61f
+5	409	7330993032354666	CMakeFiles/a2_3_car_men01.dir/domain.c.obj	d5b7a08d102adffa
+11	409	7330993032402070	CMakeFiles/a2_3_car_men01.dir/repository.c.obj	5f4bdfb285ea8dd9
+15	423	7330993032525482	CMakeFiles/a2_3_car_men01.dir/UI.c.obj	bae6e0d47e50bd66
+1	423	7330993032525482	CMakeFiles/a2_3_car_men01.dir/controller.c.obj	20ee18cb005653d2
+19	434	7330993032661664	CMakeFiles/a2_3_car_men01.dir/main.c.obj	8f0b72998d9da117
+434	694	7330993035101907	a2_3_car_men01.exe	a4e644a21d98258f

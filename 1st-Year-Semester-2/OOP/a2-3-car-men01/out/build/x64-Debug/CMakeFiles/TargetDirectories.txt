@@ -1,0 +1,3 @@
+D:/UBB/Semestrul II/oop/assignments/a2-3-car-men01/out/build/x64-Debug/CMakeFiles/a2_3_car_men01.dir
+D:/UBB/Semestrul II/oop/assignments/a2-3-car-men01/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/UBB/Semestrul II/oop/assignments/a2-3-car-men01/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

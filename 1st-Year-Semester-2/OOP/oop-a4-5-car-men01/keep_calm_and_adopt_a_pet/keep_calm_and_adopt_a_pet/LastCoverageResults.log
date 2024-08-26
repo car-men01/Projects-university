@@ -1,0 +1,21 @@
+[2024-04-12 11:06:32] [info] Start Program:
+Path:"D:\UBB\Semestrul II\oop\assignments\oop-a4-5-car-men01\keep_calm_and_adopt_a_pet\x64\Debug\keep_calm_and_adopt_a_pet.exe"
+Arguments:
+Working directory: "D:\UBB\Semestrul II\oop\assignments\oop-a4-5-car-men01\keep_calm_and_adopt_a_pet\keep_calm_and_adopt_a_pet\"
+Modules: Selected: D:\UBB\Semestrul II\oop\assignments\oop-a4-5-car-men01\keep_calm_and_adopt_a_pet\x64\Debug\keep_calm_and_adopt_a_pet.exe Excluded: 
+Sources: Selected: D:\UBB\Semestrul II\oop\assignments\oop-a4-5-car-men01\keep_calm_and_adopt_a_pet\keep_calm_and_adopt_a_pet Excluded: UI.cpp UI.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\carmen\AppData\Local\Temp\iw4mkqmh.i5b 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-12 11:06:32] [info] Module: D:\UBB\Semestrul II\oop\assignments\oop-a4-5-car-men01\keep_calm_and_adopt_a_pet\x64\Debug\keep_calm_and_adopt_a_pet.exe is selected because it matches selected pattern: D:\UBB\Semestrul II\oop\assignments\oop-a4-5-car-men01\keep_calm_and_adopt_a_pet\x64\Debug\keep_calm_and_adopt_a_pet.exe
+[2024-04-12 11:06:33] [info] ----------------------------------------------------
+[2024-04-12 11:06:33] [info] Coverage binary generated in file: C:\Users\carmen\AppData\Local\Temp\iw4mkqmh.i5b
+[2024-04-12 11:06:33] [info] ----------------------------------------------------

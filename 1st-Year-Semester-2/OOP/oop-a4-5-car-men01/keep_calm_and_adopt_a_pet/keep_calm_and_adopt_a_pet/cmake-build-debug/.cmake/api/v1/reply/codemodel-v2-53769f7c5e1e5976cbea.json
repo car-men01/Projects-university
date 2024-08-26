@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "keep_calm_and_adopt_a_pet",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "keep_calm_and_adopt_a_pet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-keep_calm_and_adopt_a_pet-Debug-bf12d5da95cabccace60.json",
+					"name" : "keep_calm_and_adopt_a_pet",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/UBB/Semestrul II/oop/assignments/oop-a4-5-car-men01/keep_calm_and_adopt_a_pet/keep_calm_and_adopt_a_pet/cmake-build-debug",
+		"source" : "D:/UBB/Semestrul II/oop/assignments/oop-a4-5-car-men01/keep_calm_and_adopt_a_pet/keep_calm_and_adopt_a_pet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

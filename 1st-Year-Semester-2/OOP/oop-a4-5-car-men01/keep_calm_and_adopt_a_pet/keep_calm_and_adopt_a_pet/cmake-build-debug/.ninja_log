@@ -1,0 +1,9 @@
+# ninja log v5
+7	112	7342128959869486	CMakeFiles/keep_calm_and_adopt_a_pet.dir/dynamic_array.cpp.obj	c295c654350904c0
+113	222	7342128960845670	CMakeFiles/keep_calm_and_adopt_a_pet.dir/tests.cpp.obj	6171945916199c2c
+0	416	7342128962915882	CMakeFiles/keep_calm_and_adopt_a_pet.dir/dog.cpp.obj	5d64a0f70657c268
+23	433	7342128963090856	CMakeFiles/keep_calm_and_adopt_a_pet.dir/service.cpp.obj	5b395a37dcf208ec
+13	434	7342128963113611	CMakeFiles/keep_calm_and_adopt_a_pet.dir/repository.cpp.obj	fbf8c3c9f6294b2a
+30	594	7342128964697376	CMakeFiles/keep_calm_and_adopt_a_pet.dir/main.cpp.obj	6423a2f77d206f5
+42	668	7342128965462716	CMakeFiles/keep_calm_and_adopt_a_pet.dir/UI.cpp.obj	c34e940854d205a1
+675	976	7342128968344016	keep_calm_and_adopt_a_pet.exe	11ea2ea64ea87d7

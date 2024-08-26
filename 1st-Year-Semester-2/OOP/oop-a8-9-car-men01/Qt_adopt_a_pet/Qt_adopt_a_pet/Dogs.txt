@@ -1,0 +1,10 @@
+Beagle,Rex,2,https://forestry.com/wp/wp-content/uploads/2024/01/2-405.webp
+Beagle,Lucy,10,https://freerangestock.com/sample/132676/golden-retriever-in-water-.jpg
+Pug,Reggie,1,https://image.petmd.com/files/styles/863x625/public/2022-10/pug-dog-breed.jpeg
+Labrador,Buddy,4,https://upload.wikimedia.org/wikipedia/commons/d/d4/Labrador_Retriever_-_Yellow.JPG
+Husky,Kyra,5,https://thumbs.dreamstime.com/b/husky-4135989.jpg
+Chow chow,Apollo,6,https://www.zooplus.ro/ghid/wp-content/uploads/2022/06/caine-chow-chow-roscat.webp
+Bulldog,Jojo,7,https://cdn.britannica.com/08/234208-050-C9A21C4C/English-bulldog-dog.jpg
+Labrador,Logan,8,https://i.pngimg.me/thumb/f/720/6001911752818688.jpg
+Dalmatian,Dixie,9,https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Dog_Dalmatian.jpg
+Beagle,Tux,10,https://cdn.britannica.com/75/234475-050-7D0C0D7E/Doberman-pinscher-dog.jpg
