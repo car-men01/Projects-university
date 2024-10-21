@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0487b90d-fdbd-4d18-a042-642347ddc0f1" name="Changes" comment="" />
+    <list default="true" id="0487b90d-fdbd-4d18-a042-642347ddc0f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ToyLang/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/ToyLang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToyLang/src/model/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "car-men01"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/car-men01/Projects-university.git",
+    "accountId": "775111b5-e0d1-415a-b02e-fa17f0862e30"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nksSVPFkMTskQkJo49vbSod8Dx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "A2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/UBB/github_projects/2nd-Year-Semester-1/MAP",
     "nodejs_package_manager_path": "npm",
@@ -45,7 +66,11 @@
       <option name="presentableId" value="Default" />
       <updated>1729528407340</updated>
       <workItem from="1729528408420" duration="28000" />
+      <workItem from="1729528979565" duration="20000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
